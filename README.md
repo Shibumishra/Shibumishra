@@ -1,4 +1,4 @@
-### Hi, I am Satyabrat Kumar Mishra👋
+### Hi, I am Satyabrat Kumar Mishra !👋
 
 - 🔭 I’m currently working on Nirmitee
 - 🌱 I’m currently learning on Web 3.0
