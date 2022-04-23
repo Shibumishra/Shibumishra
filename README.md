@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyabrat Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p>I'm a Web Developer, with a curious mind, keen to solve complex and challenging problems. Proficient in writing clean and effective code, and driven to make a user-friendly website.,</p>
 
