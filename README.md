@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satyabrat Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+<p>I'm a Web Developer, with a curious mind, keen to solve complex and challenging problems. Proficient in writing clean and effective code, and driven to make a user-friendly website.,</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibumishra&label=Profile%20views&color=0e75b6&style=flat" alt="shibumishra" /> </p>
 
 - 🔭 I’m currently working on [Nirmitee](https://www.nirmitee.io/)
