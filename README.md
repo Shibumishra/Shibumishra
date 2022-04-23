@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibumishra&label=Profile%20views&color=0e75b6&style=flat" alt="shibumishra" /> </p>
 
-- 🔭 I’m currently working on [Nirmitee](https://www.nirmitee.io/)
-
 - 🌱 I’m currently learning **Web 3.0**
 
 - 💬 Ask me about **React, Node, Mongodb and Express**
