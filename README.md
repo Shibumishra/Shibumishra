@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shibu_mishrs" target="blank"><img src="https://img.shields.io/twitter/follow/shibu_mishrs?logo=twitter&style=for-the-badge" alt="shibu_mishrs" /></a> </p>
 
-- 🔭 I’m currently working on [Nirmitee.io](https://www.nirmitee.io/)
+- 🔭 I’m currently working on [Nirmitee Softwares](https://www.nirmitee.io/)
 
 - 🌱 I’m currently learning **Web 3.0**
 
