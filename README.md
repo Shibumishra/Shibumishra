@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibumishra&label=Profile%20views&color=0e75b6&style=flat" alt="shibumishra" /> </p>
 
+<p align="left"> <a href="https://twitter.com/shibu_mishrs" target="blank"><img src="https://img.shields.io/twitter/follow/shibu_mishrs?logo=twitter&style=for-the-badge" alt="shibu_mishrs" /></a> </p>
+
+- 🔭 I’m currently working on [Nirmitee](https://www.nirmitee.io/)
+
 - 🌱 I’m currently learning **Web 3.0**
 
 - 💬 Ask me about **React, Node, Mongodb and Express**
