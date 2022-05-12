@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web 3.0**
 
-- 💬 Ask me about **React, Node, Mongodb and Express**
+- 💬 Ask me about **Javascript, React js, React Native, Node, Mongodb and Express**
 
 - 📫 How to reach me **sibumishra546@gmail.com**
 
